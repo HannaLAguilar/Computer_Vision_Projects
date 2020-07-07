@@ -11,5 +11,7 @@ AI projects have a lot of code behind them. I believe that the best way of becom
 - Convolutional Neural Networks, CNN
 - Recurrent Neural Networks, RNN. LSTM
 
-[Day Night Classifier](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/CV_Path/Day%20and%20Night%20Classifier.ipynb)
+### Computer Vision basics
+
+* [Day Night Classifier](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/CV_Path/Day%20and%20Night%20Classifier.ipynb)
 
