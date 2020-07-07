@@ -13,5 +13,6 @@ AI projects have a lot of code behind them. I believe that the best way of becom
 
 ### Computer Vision basics
 
+* [Image Representation](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/CV_Path/Image%20Representation.ipynb)
 * [Day Night Classifier](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/CV_Path/Day%20and%20Night%20Classifier.ipynb)
 
