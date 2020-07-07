@@ -5,7 +5,7 @@ AI projects have a lot of code behind them. I believe that the best way of becom
 ### Technologies used:
 
 - Python, numpy
-- opencv, PIL
+- opencv, pillow
 - Pytorch
 - Neural Networks
 - Convolutional Neural Networks, CNN
