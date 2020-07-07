@@ -1,5 +1,15 @@
-# Computer Vision Nanodegree Udacity
+# Computer Vision Path
 
-I'm pursuing a Computer Vision Nanodegree in Udacity. If you want to check all the lesson notebooks I'm doing, you can look this folder CV_path.
+AI projects have a lot of code behind them. I believe that the best way of becoming a better programmer is to write every line of code. This is why I've written the code for all these notebooks from scratch.
 
-Udacity Nanodegree program here.
+### Technologies used:
+
+- Python, numpy
+- opencv, PIL
+- Pytorch
+- Neural Networks
+- Convolutional Neural Networks, CNN
+- Recurrent Neural Networks, RNN. LSTM
+
+[Day Night Classifier](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/CV_Path/Day%20and%20Night%20Classifier.ipynb)
+
