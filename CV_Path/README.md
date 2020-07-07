@@ -9,7 +9,7 @@ AI projects have a lot of code behind them. I believe that the best way of becom
 - Pytorch
 - Neural Networks
 - Convolutional Neural Networks, CNN
-- Recurrent Neural Networks, RNN. LSTM
+- Recurrent Neural Networks, RNN, LSTM
 
 ### Computer Vision basics
 
