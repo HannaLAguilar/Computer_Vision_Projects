@@ -1,4 +1,4 @@
-# Computer Vision Path
+# Computer Vision Excercises
 
 AI projects have a lot of code behind them. I believe that the best way of becoming a better programmer is to write every line of code. This is why I've written the code for all these notebooks from scratch.
 
