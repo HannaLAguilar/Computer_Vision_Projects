@@ -6,4 +6,4 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/computer-vision
 
 ## Projects
 
-* Facial Keypoint Detection
+* Facial Keypoint Detection: *working on*
