@@ -14,3 +14,4 @@ AI projects have a lot of code behind them. I believe that the best way of becom
 * [Filter and Edges](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/Excercises/3.%20Filter%20and%20Edge%20detection.ipynb)
 * [Hough and Haar Cascade](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/Excercises/4.%20Hough%20and%20Haar%20Cascade.ipynb)
 * [Image Segmentation](https://github.com/HannaLAguilar/Computer_Vision_Udacity/blob/master/Excercises/5.%20Features%20Image%20Segmentation.ipynb)
+* [ORB and HOG]()
